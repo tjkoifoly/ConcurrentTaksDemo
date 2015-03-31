@@ -1,4 +1,5 @@
 # ConcurrentTaksDemo
 
 3 tasks run concurrent
-Demo was build using NSOperationQueue
+
+Demo was built using NSOperationQueue
