@@ -12,22 +12,34 @@
 	<dict>
 		<key>2B3491CDB3378CC5ED3EF5CF85E2A5930D521BEF</key>
 		<string>https://bitbucket.org/congncif/demo.git</string>
+		<key>551C093C6870E8501F185AB70BC8BD77E89719E9</key>
+		<string>https://github.com/tjkoifoly/ConcurrentTaksDemo.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Demo/Demo.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>2B3491CDB3378CC5ED3EF5CF85E2A5930D521BEF</key>
+		<string>../../../../demo</string>
+		<key>551C093C6870E8501F185AB70BC8BD77E89719E9</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://bitbucket.org/congncif/demo.git</string>
+	<string>https://github.com/tjkoifoly/ConcurrentTaksDemo.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>2B3491CDB3378CC5ED3EF5CF85E2A5930D521BEF</string>
+	<string>551C093C6870E8501F185AB70BC8BD77E89719E9</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>551C093C6870E8501F185AB70BC8BD77E89719E9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ConcurrentTaksDemo</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>

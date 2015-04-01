@@ -12,7 +12,7 @@
 
 @interface TasksManager : NSObject
 
-@property (nonatomic, strong) NSMutableArray *list;
+@property (atomic, strong) NSMutableArray *list;
 
 + (id)sharedManager;
 
